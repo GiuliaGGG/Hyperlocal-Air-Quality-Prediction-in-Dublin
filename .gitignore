@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< Updated upstream
+=======
+# Data files
+data/
+*.csv
+*.json
+*.txt
+
+>>>>>>> Stashed changes
 # C extensions
 *.so
 
