@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Data files
+api_key_weather.txt
 data/
 *.csv
 *.json
