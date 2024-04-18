@@ -5,7 +5,7 @@ __pycache__/
 
 # Data files
 data/
-*.csv
+*/data/.csv
 *.json
 *.txt
 
