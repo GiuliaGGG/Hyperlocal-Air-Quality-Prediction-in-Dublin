@@ -9,6 +9,7 @@ data/
 */data/.csv
 *.json
 *.txt
+Traffic_merged_combined_hourly.rar
 
 # C extensions
 *.so
