@@ -10,6 +10,9 @@ data/
 *.json
 *.txt
 
+# Elena's exploration
+geoclustering/
+
 # C extensions
 *.so
 
