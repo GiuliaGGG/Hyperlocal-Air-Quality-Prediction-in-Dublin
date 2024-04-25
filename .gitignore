@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+**/.DS_Store
+
 # Data files
 api_key_weather.txt
 data/
@@ -11,7 +13,6 @@ data/
 *.txt
 
 # Elena's exploration
-/geoclustering
 geoclustering/
 
 # C extensions
