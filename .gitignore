@@ -3,12 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+**/.DS_Store
+
 # Data files
 api_key_weather.txt
 data/
 */data/.csv
 *.json
 *.txt
+
+# Elena's exploration
+geoclustering/
 
 # C extensions
 *.so
