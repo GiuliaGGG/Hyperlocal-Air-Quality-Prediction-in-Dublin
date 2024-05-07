@@ -11,9 +11,10 @@ data/
 */data/.csv
 *.json
 *.txt
+*.pdf
 
-# Elena's exploration
-geoclustering/
+# pdfs
+Paperwork/papers
 
 # C extensions
 *.so
