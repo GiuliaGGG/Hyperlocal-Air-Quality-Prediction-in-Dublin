@@ -1,7 +1,7 @@
-### README for Hyperlocal Air Quality Prediction in Dublin
+### Hyperlocal Air Quality Prediction in Dublin
 
 #### Project Overview
-This project aims to provide hyperlocal air quality predictions in Dublin, focusing on PM2.5 pollution levels. Accurate, localized air quality data is crucial for informing health, environmental, and urban planning decisions. 
+This project aims to provide hyperlocal air quality predictions (PM2.5 pollution levels) in Dublin using machine learning models. Accurate, localized air quality data is crucial for informing health, environmental, and urban planning decisions. 
 
 #### Authors
 - **Giulia Maria Petrilli** (g.petrilli@students.hertie-school.org)
